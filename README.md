@@ -1,16 +1,39 @@
-### Hi there 👋
-
-<!--
-**Clav3rbot/Clav3rbot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<table>
+  <tr>
+    <td>Name</td>
+    <td>Domenico</td>
+    <td rowspan="4"><img src="X1toWje.gif" width="150" height="150"></td>
+  </tr>
+  <tr>
+    <td>Age</td>
+    <td>21</td>
+  </tr>
+  <tr>
+    <td>Gender</td>
+    <td>Male</td>
+  </tr>
+  <tr>
+    <td>Birthday</td>
+    <td>May 10th, 2000</td>
+  </tr>
+</table>
+<br>
+<table>
+  <tr>
+    <td>Title</td>
+    <td>Student</td>
+    <td rowspan="4"><img src="X1toWje.gif" width="150" height="150"></td>
+  </tr>
+  <tr>
+    <td>Interests</td>
+    <td><code>Ethical hacking</code> <code>Web development</code> <code>App development</code> <code>Discord bot development</code></td>
+  </tr>
+  <tr>
+    <td>Languages</td>
+    <td><code>C#</code> <code>Node JS</code> <code>HTML, CSS, JS</code> <code>Batch, Bash</code>, <code>Java</code</td>
+  </tr>
+  <tr>
+    <td>Socials</td>
+    <td><a href="https://dsc.gg/clav3rbot">Discord Server</a></td>
+  </tr>
+</table>
