@@ -30,7 +30,7 @@
   </tr>
   <tr>
     <td>Languages</td>
-    <td><code>C#</code> <code>Node JS</code> <code>HTML, CSS, JS</code> <code>Batch, Bash</code>, <code>Java</code</td>
+    <td><code>Node JS</code> <code>HTML, CSS, JS</code>, <code>Java</code</td>
   </tr>
   <tr>
     <td>Socials</td>
