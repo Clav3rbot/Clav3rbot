@@ -2,7 +2,7 @@
   <tr>
     <td>Name</td>
     <td>Domenico</td>
-    <td rowspan="4"><img src="X1toWje.gif" width="150" height="150"></td>
+    <td rowspan="4"><img src="icon.gif" width="150" height="150"></td>
   </tr>
   <tr>
     <td>Age</td>
@@ -22,7 +22,7 @@
   <tr>
     <td>Title</td>
     <td>Student</td>
-    <td rowspan="4"><img src="X1toWje.gif" width="150" height="150"></td>
+    <td rowspan="4"><img src="icon.gif" width="150" height="150"></td>
   </tr>
   <tr>
     <td>Interests</td>
