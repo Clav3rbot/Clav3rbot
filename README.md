@@ -21,7 +21,7 @@
 <table>
   <tr>
     <td>Title</td>
-    <td>Student</td>
+    <td>University Student</td>
     <td rowspan="4"><img src="icon.gif" width="150" height="150"></td>
   </tr>
   <tr>
