@@ -26,11 +26,11 @@
   </tr>
   <tr>
     <td>Interests</td>
-    <td><code>Ethical hacking</code> <code>Web development</code> <code>App development</code> <code>Discord bot development</code></td>
+    <td> <code>Web development</code> <code>Software development</code> <code>Discord bot development</code></td>
   </tr>
   <tr>
     <td>Languages</td>
-    <td><code>Node JS</code> <code>HTML, CSS, JS</code>, <code>Java</code</td>
+    <td><code>JavaScript</code> <code>HTML, CSS</code>, <code>Java</code><code>C/C++</code></td>
   </tr>
   <tr>
     <td>Socials</td>
