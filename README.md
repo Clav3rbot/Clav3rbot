@@ -48,7 +48,7 @@
   <summary><h3>Languages</h3></summary>
             <p align="center">
         <a href="https://github.com/Clav3rbot/">
-          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Clav3rbot&langs_count=6&theme=gruvbox&layout=compact&hide_border=true"
+          <img src="https://skillicons.dev/icons?i=java,c,js,discord"
           alt="1999AZZAR :: overall Top Langs " /></a>
       </p>
         <p align="center">
