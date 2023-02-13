@@ -1,11 +1,11 @@
 <div align="center">
-<h1 align="center">Hi <img width="35" src="">, I'm Domenico</h1>
+<h1 align="center">Hi <img width="35" src="https://github.com/Clav3rbot/Clav3rbot/blob/main/waving.gif">, I'm Domenico</h1>
 <h4 align="center">a computer engineering students at Politecnico Di Milano university, see my <a href="https://clav3rbot.github.io/C.VPittariDomenico.pdf" target="_blank">resume</a> for more</h4>
 </div>
 
 <div align="center">
   <a href="https://github.com/Clav3rbot">
-  <img  src=""
+  <img  src="https://github.com/Clav3rbot/Clav3rbot/blob/main/grid-snake.svg"
        alt="snake" /></a>
 </div>
 
