@@ -51,12 +51,12 @@
           <img src="https://skillicons.dev/icons?i=java,c,js,discord"
           alt="1999AZZAR :: overall Top Langs " /></a>
       </p>
-        <p align="center">
+    <details close>
+  <summary><h3>Stats</h3></summary>
+            <p align="center">
           <a href="https://github.com/Clav3rbot/">
-          <img width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Clav3rbot&theme=gruvbox&layout=compact&hide_border=true"
-          alt="1999AZZAR :: Top Langs by repo" />
-          <img width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Clav3rbot&theme=gruvbox&layout=compact&hide_border=true"
-          alt="1999AZZAR :: Top Langs by commit" />
+          <img width="70%" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Clav3rbot&theme=dracula"
+          alt="Clav3rbot :: Stats" />
           </a>
         </p>
 </details>
