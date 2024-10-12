@@ -48,7 +48,7 @@
   <summary><h3>Languages</h3></summary>
             <p align="center">
         <a href="https://github.com/Clav3rbot/">
-          <img src="https://skillicons.dev/icons?i=java,c,js,discord"
+          <img src="https://skillicons.dev/icons?i=java,c,lua,js"
           alt="1999AZZAR :: overall Top Langs " /></a>
       </p>
     <details close>
