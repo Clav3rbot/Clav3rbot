@@ -1,17 +1,16 @@
 <div align="center">
 <h1 align="center">Hi <img width="35" src="https://github.com/Clav3rbot/Clav3rbot/blob/main/resource/waving.gif">, I'm Domenico</h1>
 <div align="center">
+
+  <h3>🎓 B.Sc. in Computer Engineering</h3>
+  <p><strong>Politecnico di Milano</strong></p>
+
+  <h3>🔐 M.Sc. Candidate in Cyber Risk Strategy and Governance</h3>
+  <p><strong>Politecnico di Milano</strong> & <strong>Università Bocconi</strong></p>
   <p>
-    Computer Engineering student at Politecnico di Milano.
+    See my <a href="https://clav3rbot.github.io/" target="_blank"><strong>portfolio</strong></a> for more.
   </p>
 
-  <p>
-    Currently pursuing a Master's degree in Cyber Risk Strategy and Governance.
-  </p>
-
-  <p>
-    See my <a href="https://clav3rbot.github.io/" target="_blank">portfolio</a> for more.
-  </p>
 </div>
 
 <div align="center">
