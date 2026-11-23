@@ -10,6 +10,11 @@
   <p>
     See my <a href="https://clav3rbot.github.io/" target="_blank"><strong>portfolio</strong></a> for more.
   </p>
+  <p>
+    <a href="https://ko-fi.com/clav3r" target="_blank"><img
+       src="https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white"
+       alt="Support me on Ko-fi" height="30"/></a>
+  </p>
 
 </div>
 
